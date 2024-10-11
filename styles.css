@@ -97,9 +97,9 @@ nav {
     text-transform: none;
 }
 .proj-blurb{
-    color: black;
+    color: #000000;
     font-size: 1.2vw;
-    font-family: "DM sans", sans-serif;
+    font-family: "DM sans", "Lucida sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
     text-transform: none;
